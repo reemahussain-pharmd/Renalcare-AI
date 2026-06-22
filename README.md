@@ -59,8 +59,8 @@ Built for nephrologists, clinical pharmacists, researchers, and patients — Ren
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/reemahussain-pharmd/Renalcare-AI.git
-cd Renalcare-AI
+git clone https://github.com/reemahussain-pharmd/RenalOne.git
+cd RenalOne
 
 # 2. Create virtual environment
 python -m venv venv
